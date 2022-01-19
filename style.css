@@ -1,0 +1,17 @@
+body{
+background-color: lightgoldenrodyellow;
+}
+#score{
+margin:left;
+font-size: 30px;
+float:left;
+}
+#time{
+margin:right;
+font-size: 30px;
+float:right;
+}
+#sketch_name{
+color:lightblue;
+}
+
